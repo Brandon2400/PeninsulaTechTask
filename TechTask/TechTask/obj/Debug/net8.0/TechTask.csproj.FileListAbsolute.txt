@@ -1,0 +1,15 @@
+C:\Users\brand\Desktop\PeninsulaTechTask\TechTask\TechTask\obj\Debug\net8.0\TechTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\Desktop\PeninsulaTechTask\TechTask\TechTask\obj\Debug\net8.0\TechTask.AssemblyInfoInputs.cache
+C:\Users\brand\Desktop\PeninsulaTechTask\TechTask\TechTask\obj\Debug\net8.0\TechTask.AssemblyInfo.cs
+C:\Users\brand\Desktop\PeninsulaTechTask\TechTask\TechTask\obj\Debug\net8.0\TechTask.csproj.CoreCompileInputs.cache
+C:\Users\brand\Desktop\PeninsulaTechTask\TechTask\TechTask\obj\Debug\net8.0\TechTask.sourcelink.json
+C:\Users\brand\Desktop\PeninsulaTechTask\TechTask\TechTask\bin\Debug\net8.0\TechTask.exe
+C:\Users\brand\Desktop\PeninsulaTechTask\TechTask\TechTask\bin\Debug\net8.0\TechTask.deps.json
+C:\Users\brand\Desktop\PeninsulaTechTask\TechTask\TechTask\bin\Debug\net8.0\TechTask.runtimeconfig.json
+C:\Users\brand\Desktop\PeninsulaTechTask\TechTask\TechTask\bin\Debug\net8.0\TechTask.dll
+C:\Users\brand\Desktop\PeninsulaTechTask\TechTask\TechTask\bin\Debug\net8.0\TechTask.pdb
+C:\Users\brand\Desktop\PeninsulaTechTask\TechTask\TechTask\obj\Debug\net8.0\TechTask.dll
+C:\Users\brand\Desktop\PeninsulaTechTask\TechTask\TechTask\obj\Debug\net8.0\refint\TechTask.dll
+C:\Users\brand\Desktop\PeninsulaTechTask\TechTask\TechTask\obj\Debug\net8.0\TechTask.pdb
+C:\Users\brand\Desktop\PeninsulaTechTask\TechTask\TechTask\obj\Debug\net8.0\TechTask.genruntimeconfig.cache
+C:\Users\brand\Desktop\PeninsulaTechTask\TechTask\TechTask\obj\Debug\net8.0\ref\TechTask.dll
